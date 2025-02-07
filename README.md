@@ -14,7 +14,7 @@
 ## 🌟 Highlighted Projects:
 ### 1️⃣ [Ecommerce App](https://github.com/MalakHenendeveloper/Ecommerce_App_)  
 - A complete e-commerce app featuring cart management, user authentication, and payments.  
-- **Tech Stack**: Flutter, Firebase, Provider.  
+- **Tech Stack**: Flutter, Firebase, Bloc/cubit.  
 - **Features**: Interactive UI, API integration.  
 
 ### 2️⃣ [Weather App](https://github.com/MalakHenendeveloper/weather)  
