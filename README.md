@@ -35,7 +35,17 @@
 ### 5️⃣ [Movies App](https://github.com/MalakHenendeveloper/movies/tree/master)  
 - A movie browsing app that displays popular and trending movies.  
 - **Tech Stack**: Flutter, REST APIs.  
-- **Features**: Movie search, details page, and user-friendly design.  
+- **Features**: Movie search, details page, and user-friendly design.
+-  
+### 6️⃣ [News App](https://github.com/MalakHenendeveloper/News)  
+- A news browsing app that displays popular and trending News.  
+- **Tech Stack**: Flutter, REST APIs.  
+- **Features**: News search, details page, and user-friendly design.
+- 
+### 7️⃣ [Islame App](https://github.com/MalakHenendeveloper/islame)  
+- A islame browsing app that displays popular and trending Islame.  
+- **Tech Stack**: Flutter, loclaziton.  
+- **Features**:Quranic surahs, verse details, settings, themes, and language selection..  
 
 ---
 
