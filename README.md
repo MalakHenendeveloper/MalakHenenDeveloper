@@ -6,7 +6,7 @@
 ## 🛠️ Technical Skills:
 - **Programming Languages**: Dart  
 - **Frameworks**: Flutter, Firebase  
-- **Tools**: Git, GitHub, RESTful APIs  
+- **Tools**: Git, GitHub, RESTful APIs , statmangment(Bloc/cubit) 
 - **Design**: Responsive UI/UX, Material Design  
 
 ---
@@ -36,16 +36,22 @@
 - A movie browsing app that displays popular and trending movies.  
 - **Tech Stack**: Flutter, REST APIs.  
 - **Features**: Movie search, details page, and user-friendly design.
--  
+   
 ### 6️⃣ [News App](https://github.com/MalakHenendeveloper/News)  
 - A news browsing app that displays popular and trending News.  
 - **Tech Stack**: Flutter, REST APIs.  
 - **Features**: News search, details page, and user-friendly design.
-- 
+  
 ### 7️⃣ [Islame App](https://github.com/MalakHenendeveloper/islame)  
 - A islame browsing app that displays popular and trending Islame.  
 - **Tech Stack**: Flutter, loclaziton.  
-- **Features**:Quranic surahs, verse details, settings, themes, and language selection..  
+- **Features**:Quranic surahs, verse details, settings, themes, and language selection.
+
+  
+### 8️⃣ [To-Do App](https://github.com/MalakHenendeveloper/To_do.git)
+- A task management app to add, display, filter, and sort tasks.  
+- **Tech Stack**: Flutter, Firestore.  
+- **Features**: Add tasks, display tasks, filter and sort tasks, and real-time Firestore integration.
 
 ---
 
