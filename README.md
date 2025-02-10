@@ -53,6 +53,12 @@
 - **Tech Stack**: Flutter, Firestore.  
 - **Features**: Add tasks, display tasks, filter and sort tasks, and real-time Firestore integration.
 
+### 9️⃣  [Fitness App](https://github.com/MalakHenendeveloper/Fitness.git)
+- A fitness tracking app to monitor workouts, track calorie burn, and search for exercises.
+- **Tech Stack**: Flutter, Firestore.  
+- **Features**: Track workouts, monitor calorie burn with progress indicators, exercise search, and adaptive UI with ScreenUtil.
+
+
 ---
 
 ## 🎯 What I Offer:
